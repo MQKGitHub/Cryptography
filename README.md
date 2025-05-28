@@ -10,9 +10,9 @@ Each topic moves from theory to real-world application.
 
 | Topic Name                      | Status         | Link                                                                 |
 |---------------------------------|----------------|----------------------------------------------------------------------|
-| Cryptography Basics             | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Cryptography-Basics/) |
-| Public Key Cryptography Basics  | 🛠️ In Progress | - coming soon                                                        |
-| Hashing Basics                  | ⏳ Not Started | - coming soon                                                        |
+| Cryptography Basics             | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Cryptography-Basics/)            |
+| Public Key Cryptography Basics  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Public-Key-Cryptography-Basics/) |
+| Hashing Basics                  | 🛠️ In Progress | - coming soon                                                        |
 | John the Ripper: The Basics     | ⏳ Not Started | - coming soon                                                        |
 
 ---
@@ -25,8 +25,8 @@ Each topic moves from theory to real-world application.
 
   
 ### 🔓 Public Key Cryptography Basics  
-- coming soon
-- coming soon
+- Learned how asymmetric encryption works using public/private key pairs, including RSA and Diffie-Hellman for secure communication.  
+- Explored digital signatures, SSH authentication, TLS certificates, and hands-on tools like GPG and ssh-keygen.
 
 ### #️⃣ Hashing Basics  
 - coming soon

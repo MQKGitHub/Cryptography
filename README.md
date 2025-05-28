@@ -12,8 +12,8 @@ Each topic moves from theory to real-world application.
 |---------------------------------|----------------|----------------------------------------------------------------------|
 | Cryptography Basics             | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Cryptography-Basics/)            |
 | Public Key Cryptography Basics  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Public-Key-Cryptography-Basics/) |
-| Hashing Basics                  | 🛠️ In Progress | - coming soon                                                        |
-| John the Ripper: The Basics     | ⏳ Not Started | - coming soon                                                        |
+| Hashing Basics                  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Hashing-Basics/)                 |
+| John the Ripper: The Basics     | 🛠️ In Progress | - coming soon                                                        |
 
 ---
 
@@ -29,8 +29,8 @@ Each topic moves from theory to real-world application.
 - Explored digital signatures, SSH authentication, TLS certificates, and hands-on tools like GPG and ssh-keygen.
 
 ### #️⃣ Hashing Basics  
-- coming soon
-- coming soon
+- Learned how hash functions work, including how they're used to store passwords securely and verify data integrity.  
+- Explored key concepts like salting, rainbow tables, and modern password hashing algorithms such as bcrypt and Argon2.
 
 ### 💥 John the Ripper: The Basics  
 - coming soon

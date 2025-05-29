@@ -13,7 +13,7 @@ Each topic moves from theory to real-world application.
 | Cryptography Basics             | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Cryptography-Basics/)            |
 | Public Key Cryptography Basics  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Public-Key-Cryptography-Basics/) |
 | Hashing Basics                  | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/Hashing-Basics/)                 |
-| John the Ripper: The Basics     | 🛠️ In Progress | - coming soon                                                        |
+| John the Ripper: The Basics     | ✅ Completed   | [View Write-Up](https://github.com/MQKGitHub/John-the-Ripper-The-Basics/)     |
 
 ---
 
@@ -33,5 +33,6 @@ Each topic moves from theory to real-world application.
 - Explored key concepts like salting, rainbow tables, and modern password hashing algorithms such as bcrypt and Argon2.
 
 ### 💥 John the Ripper: The Basics  
-- coming soon
-- coming soon
+- Learned how to use John the Ripper to crack various password hashes and protected files like ZIP, RAR, and SSH keys.  
+- Explored techniques like single crack mode, word mangling rules, and file format conversion with tools like `zip2john` and `unshadow`.
+
